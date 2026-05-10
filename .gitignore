@@ -1,0 +1,12 @@
+# Runtime upload data
+q1/data/
+q1/*.log
+
+# Go build artifacts
+*.exe
+*.test
+coverage.out
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
