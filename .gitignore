@@ -1,6 +1,7 @@
 # Runtime upload data
 q1/data/
 q1/*.log
+q2/tmp/
 
 # Go build artifacts
 *.exe
